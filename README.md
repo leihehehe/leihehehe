@@ -9,4 +9,4 @@ Earn stars from now on 😅
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: 不想学习
 
-![](https://github-readme-stats.vercel.app/api?username=leihehehe)
+![](https://github-readme-stats.vercel.app/api?username=leihehehe&theme=dark)
