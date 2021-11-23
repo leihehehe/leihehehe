@@ -10,4 +10,4 @@ Earn stars from now on 😅
 - ⚡ Fun fact: 不想学习
 
 ![](https://github-readme-stats.vercel.app/api?username=leihehehe&theme=dark)
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=GitHub用户名)
+ [![Leihehehe's GitHub stats](https://github-readme-stats.vercel.app/api?username=leihehehe)](https://github.com/leihehehe)
