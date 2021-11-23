@@ -11,5 +11,5 @@ Earn stars from now on 😅
 
 ![](https://github-readme-stats.vercel.app/api?username=leihehehe&theme=dark)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leihehehe&layout=compact)](https://github.com/leihehehe)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leihehehe&layout=compact&theme=dark)](https://github.com/leihehehe)
 
