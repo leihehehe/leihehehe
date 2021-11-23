@@ -10,5 +10,6 @@ Earn stars from now on 😅
 - ⚡ Fun fact: 不想学习
 
 ![](https://github-readme-stats.vercel.app/api?username=leihehehe&theme=dark)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leihehehe)](https://github.com/leihehehe)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leihehehe&layout=compact)](https://github.com/leihehehe)
 
