@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  <img align="right" src="https://github-readme-stats.vercel.app/api?username=leihehehe&show_icons=true&theme=radical">
 
 Earn stars from now on 😅
 
@@ -9,7 +9,6 @@ Earn stars from now on 😅
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: 不想学习
 
-![](https://github-readme-stats.vercel.app/api?username=leihehehe&show_icons=true&theme=radical)
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leihehehe&theme=dark&layout=compact)](https://github.com/leihehehe)
 
