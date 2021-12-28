@@ -5,7 +5,6 @@ Earn stars from now on 😅
 - ⚒️ Java, Python, Node.js, Angular, ios, Android
 - 🌱 I’m currently learning Node.js, Java, Python
 - 💪 Newbie for Web security, Reverse engineering
-- ✏️ Taking courses at Monash Uni
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: 不想学习
 
