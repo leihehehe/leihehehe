@@ -3,7 +3,7 @@
 Earn stars from now on 😅 
 
 - ⚒️ Java, Python, Node.js, Angular, ios, Android
-- 🌱 I’m currently learning Node.js, Java, Python
+- 🌱 I’m currently learning Node.js, Java, Golang
 - 💪 Newbie for Web security, Reverse engineering
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: 不想学习
