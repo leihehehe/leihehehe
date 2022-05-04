@@ -1,9 +1,7 @@
 ### Hi there 👋  <img align="right" src="https://github-readme-stats.vercel.app/api?username=leihehehe&show_icons=true&theme=radical">
 
-Earn stars from now on 😅 
-
 - ⚒️ Java, Python, Node.js, Angular, ios, Android
-- 🌱 I’m currently learning Node.js, Java, Golang
+- 🌱 I’m currently learning Cybersecurity, Java, Golang
 - 💪 Newbie for Web security, Reverse engineering
 - 😄 Pronouns: She/her
 
