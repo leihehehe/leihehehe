@@ -5,23 +5,22 @@
 - 😄 Pronouns: She/her
 
 ### 🛠 &nbsp;Tech Stack
-<!-- LANGUAGES AND TOOLS -->
-<hr>
-<p align="center"> 
-  <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> 
-  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" width="40" height="40"/> </a> 
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
-  <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-</p>  
+
+[![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)](https://www.java.com)
+[![Spring](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)](https://spring.io/)
+[![Kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg)](https://kafka.apache.org/)
+[![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)](https://www.docker.com/)
+[![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg)](https://kubernetes.io/)
+[![Redis](https://www.vectorlogo.zone/logos/redis/redis-ar21.svg)](https://redis.io/)
+[![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg)](https://www.jenkins.io/)
+[![AWS S3](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)](https://aws.amazon.com/ "Hosting")
+[![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://git-scm.com/ "Version control")
+[![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://www.github.com/ "git hosting")
+[![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/ "build-time scripts")
+[![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)](https://www.mongodb.com/)
+[![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)](https://nodejs.org)
+[![Linux](https://www.vectorlogo.zone/logos/linux/linux-ar21.svg)](https://www.linux.org/)
+[![Angular](https://www.vectorlogo.zone/logos/angular/angular-ar21.svg)](https://angular.io)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
