@@ -11,6 +11,7 @@
 [![Kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg)](https://kafka.apache.org/)
 [![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)](https://www.docker.com/)
 [![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg)](https://kubernetes.io/)
+[![Rancher](https://www.vectorlogo.zone/logos/rancher/rancher-ar21.svg)](https://rancher.com/)
 [![Redis](https://www.vectorlogo.zone/logos/redis/redis-ar21.svg)](https://redis.io/)
 [![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg)](https://www.jenkins.io/)
 [![AWS S3](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)](https://aws.amazon.com/ "Hosting")
