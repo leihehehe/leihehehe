@@ -9,6 +9,7 @@
 [![Java](https://www.vectorlogo.zone/logos/java/java-ar21.svg)](https://www.java.com)
 [![Spring](https://www.vectorlogo.zone/logos/springio/springio-ar21.svg)](https://spring.io/)
 [![Kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg)](https://kafka.apache.org/)
+[![RabbitMQ](https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg)](https://www.rabbitmq.com/)
 [![Docker](https://www.vectorlogo.zone/logos/docker/docker-ar21.svg)](https://www.docker.com/)
 [![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg)](https://kubernetes.io/)
 [![Rancher](https://www.vectorlogo.zone/logos/rancher/rancher-ar21.svg)](https://rancher.com/)
