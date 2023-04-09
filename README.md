@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
-- 🌱 I’m currently learning Devops, Java, Cybersecurity, Algorithm
-- 💪 Newbie for Web security
+- 🌱 Focusing on Algorithm
+- 💪 Actively looking for a SWE Intern role
 - 😄 Pronouns: She/her
 
 ### 🛠 &nbsp;Tech Stack
