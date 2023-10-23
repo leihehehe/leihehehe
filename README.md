@@ -1,7 +1,6 @@
 ### Hi there 👋 
 
 - 🌱 Focusing on Algorithm
-- 💪 Actively looking for a SWE Intern role
 - 😄 Pronouns: She/her
 
 ### 🛠 &nbsp;Tech Stack
