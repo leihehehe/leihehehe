@@ -22,6 +22,7 @@
 [![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg)](https://nodejs.org)
 [![Linux](https://www.vectorlogo.zone/logos/linux/linux-ar21.svg)](https://www.linux.org/)
 [![Angular](https://www.vectorlogo.zone/logos/angular/angular-ar21.svg)](https://angular.io)
+[[![Vue](https://www.vectorlogo.zone/logos/angular/angular-ar21.svg)](https://angular.io)](https://www.vectorlogo.zone/logos/vuejs/vuejs-ar21.svg)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
