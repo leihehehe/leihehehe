@@ -1,6 +1,5 @@
 ### Hi there 👋 
 
-- 🌱 Focusing on Algorithm
 - 😄 Pronouns: She/her
 
 ### 🛠 &nbsp;Tech Stack
